@@ -42,11 +42,8 @@ Apuntes nuevos:
 Hacer un ciclo foreach maquetando todo el codigo html que va a crear cada parte 
 del objeto para automatizar lo que se vaya agregando 
 
-Al crear elementos de HTML desde agregarles addEventListener desde el mismo 
-bloque decodigo en JS 
-
-para mostrar un bloque de codigo inactive y que no se cierre al volver a dar
-click en el mismo lugar se coloca x.inactive.remove('');
 
 
-github pages: Es un servicio de alojamiento de sitio estático(Hace el backent por nosotros)
+
+
+
